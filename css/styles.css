@@ -16,3 +16,10 @@ p{
   .list .d{
     color: chartreuse;
   }
+  button{
+    color: white;
+    background-color: blue;
+  }
+  footer{
+    background-color: grey;
+  }
